@@ -97,11 +97,15 @@ The most predictive physical features were:
 3. `koi_impact` (0.11) - Transit impact parameter
 4. `koi_period` (0.11) - Orbital period
 
+![Feature Importance](images/feature_importance.png)
+
 ### Candidate Predictions
 
 - **36 candidates** were classified with a probability > 90% of being a real exoplanet
 - None of these 36 have been confirmed by NASA in the current archive, they remain **promising unverified signals** 
 - All top candidates are still labeled `CANDIDATE` in the original NASA dataset, suggesting they await further observation
+
+![Scatterplot](images/scatterplot.png)
 
 ---
 
