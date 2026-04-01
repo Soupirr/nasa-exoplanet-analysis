@@ -105,7 +105,7 @@ The most predictive physical features were:
 - None of these 36 have been confirmed by NASA in the current archive, they remain **promising unverified signals** 
 - All top candidates are still labeled `CANDIDATE` in the original NASA dataset, suggesting they await further observation
 
-![Scatterplot](images/scatterplot.png)
+![Scatterplot](images/scatter_plot.png)
 
 ---
 
